@@ -61,17 +61,17 @@ flutter doctor
     ```
 
     ## Imagenes
-    <img width="525" height="525" alt="image" src="https://github.com/user-attachments/assets/2671661f-b7a6-470c-b0de-dada78870195" />
+    <img width="800" height="525" alt="image" src="https://github.com/user-attachments/assets/2671661f-b7a6-470c-b0de-dada78870195" />
     # Create
-    <img width="525" height="525" alt="image" src="https://github.com/user-attachments/assets/c356d1db-0f0c-4726-9d4c-d1d4171fd015" />
+    <img width="800" height="525" alt="image" src="https://github.com/user-attachments/assets/c356d1db-0f0c-4726-9d4c-d1d4171fd015" />
     # Read
-   <img width="525" height="525" alt="image" src="https://github.com/user-attachments/assets/2735441b-6310-4e17-84f2-4ae32661b154" />
+   <img width="800" height="525" alt="image" src="https://github.com/user-attachments/assets/2735441b-6310-4e17-84f2-4ae32661b154" />
    # PUT
-   <img width="525" height="525" alt="image" src="https://github.com/user-attachments/assets/7b30f968-2013-436b-9999-ead8970c5502" />
+   <img width="800" height="525" alt="image" src="https://github.com/user-attachments/assets/7b30f968-2013-436b-9999-ead8970c5502" />
    # Delete
-   <img width="525" height="525" alt="image" src="https://github.com/user-attachments/assets/d4aa512d-70f5-42fb-86bc-833c4776ddb0" />
+   <img width="800" height="525" alt="image" src="https://github.com/user-attachments/assets/d4aa512d-70f5-42fb-86bc-833c4776ddb0" />
 
-   <img width="525" height="525" alt="image" src="https://github.com/user-attachments/assets/d0696165-8091-4e55-ad45-f09355286a6b" />
+   <img width="800" height="525" alt="image" src="https://github.com/user-attachments/assets/d0696165-8091-4e55-ad45-f09355286a6b" />
 
 
 
